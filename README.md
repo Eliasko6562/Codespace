@@ -1,2 +1,2 @@
 # Codespace
-coding
+My first ever Python project!
